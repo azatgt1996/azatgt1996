@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, music
 - 🌱 I’m currently learning Java, Android, C#, MS SQL
 - 📫 How to reach me galyautdinovazat@gmail.com
-- donate ko-fi.com/azatgt7777
+- donate https://ko-fi.com/azatgt7777
 
 <!---
 azatgt1996/azatgt1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
