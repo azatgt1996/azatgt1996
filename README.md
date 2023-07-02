@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @azatgt1996
+- 👋 Hi, I’m Galyautdinov Azat
 - 👀 I’m interested in programming, music
-- 🌱 I’m currently learning Java, Android, C#, MS SQL
+- 🌱 I’m currently learning Java, Kotlin, PostgreSQL
 - 📫 How to reach me galyautdinovazat@gmail.com
 - donate https://ko-fi.com/azatgt7777
 
