@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Galyautdinov Azat
 - 👀 I’m interested in programming, music
-- 🌱 I’m currently learning Java, Kotlin, PostgreSQL
+- 🌱 My stack: VueJS, Kotlin, PostgreSQL
 - 📫 How to reach me galyautdinovazat@gmail.com
 - donate https://ko-fi.com/azatgt7777
 
